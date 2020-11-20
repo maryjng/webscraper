@@ -1,0 +1,1377 @@
+
+Amdarias (Re-Stats)   (MG_AMDARAIS)   Mob-ID#2476
+
+Mode
+Drops
+Monster Skills
+
+Amon Ra   (AMON_RA)   Mob-ID#1511
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Assassin Cross Eremes   (B_EREMES)   Mob-ID#1647
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Atroce   (ATROCE)   Mob-ID#1785
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Bacsojin / White Lady   (BACSOJIN_)   Mob-ID#1630
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Baphomet   (BAPHOMET)   Mob-ID#1039
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Boitata   (BOITATA)   Mob-ID#2068
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Buwaya (Re-Stats)   (BUWAYA)   Mob-ID#2319
+
+Mode
+Drops
+Monster Skills
+
+Champion Chen (Re-Stats)   (B_CHEN)   Mob-ID#2238
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Clown Alphoccio (Re-Stats)   (B_ALPHOCCIO)   Mob-ID#2240
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- Old Glast Heim Chivalry 1F</div>]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Inside Pyramid B2</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F3</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Valkyrie Guild Dungeon F2</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[<div class="tipstext">- Od Canyon</div>, <div class="tipstext">  + 1x  / 240~250 min</div>]
+[<div class="tipstext">- The Plain of Ida</div>, <div class="tipstext">  + 1x  / 180~190 min</div>]
+[<div class="tipstext">- Audhumbla Grassland</div>, <div class="tipstext">  + 1x  / 300~310 min</div>]
+[<div class="tipstext">- Veins Field</div>, <div class="tipstext">  + 1x  / 180~190 min</div>]
+[<div class="tipstext">- Veins Field</div>, <div class="tipstext">  + 1x  / 360~370 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Suei Long Gon</div>, <div class="tipstext">  + 1x  / 117~127 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Labyrinth Forest F3</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Brasilis Dungeon F2, Beyond the Waterfall</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Buwaya Cave</div>]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Creator Flamel (Re-Stats)   (B_FLAMEL)   Mob-ID#2236
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Daehyon / General Daehyun (Re-Stats)   (DAEHYON)   Mob-ID#2253
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Dark Lord   (DARK_LORD)   Mob-ID#1272
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Detale / Detardeurus   (DETALE)   Mob-ID#1719
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Doppelganger   (DOPPELGANGER)   Mob-ID#1046
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Dracula   (DRACULA)   Mob-ID#1389
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Drake   (DRAKE)   Mob-ID#1112
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Eddga   (EDDGA)   Mob-ID#1115
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Evil Snake Lord   (DARK_SNAKE_LORD)   Mob-ID#1418
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Fallen Bishop / Fallen Bishop Hibram   (FALLINGBISHOP)   Mob-ID#1871
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Hall of the Abyss : Wind of beginning</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Britoniah Guild Dungeon</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[<div class="tipstext">- Britoniah Guild Dungeon F2</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[<div class="tipstext">- Glast Heim Churchyard</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Abyss Lakes Underground Cave F3</div>, <div class="tipstext">  + 1x  / 180~190 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Geffen Dungeon F3</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[<div class="tipstext">- Luina Guild Dungeon</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Geffen Dungeon F2</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Sunken Ship F2</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Greenwood Lake Guild Dungeon</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[<div class="tipstext">- Greenwood Lake Guild Dungeon F2</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[<div class="tipstext">- Payon Forest</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Arcadia</div>, <div class="tipstext">  + 1x  / 94~104 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Cursed Monastery F2</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Garm / Hatii   (GARM)   Mob-ID#1252
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Gioia (Re-Stats)   (GIOIA)   Mob-ID#2251
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Gloom Under Night   (GLOOMUNDERNIGHT)   Mob-ID#1768
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Gold Queen Scaraba (Re-Stats)   (I_QUEEN_SCARABA)   Mob-ID#2165
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Golden Thief Bug   (GOLDEN_BUG)   Mob-ID#1086
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Gopinich   (GOPINICH)   Mob-ID#1885
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Gypsy Trentini (Re-Stats)   (B_TRENTINI)   Mob-ID#2241
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+High Priest Magaleta / High Priest Margaretha   (B_MAGALETA)   Mob-ID#1649
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+High Wizard Katrinn / High Wizard Kathryne   (B_KATRINN)   Mob-ID#1651
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Ifrit   (IFRIT)   Mob-ID#1832
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- Lutie Field</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Hall of the Abyss : Tear of Hero</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Holy Ground F5</div>, <div class="tipstext">  + 1x  / 300~310 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Skarava hall</div>, <div class="tipstext">  + 1x  / 120 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Prontera Culvert F4</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Dremuci Forest</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F3</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F3</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Thors Volcano Dungeon F3</div>, <div class="tipstext">  + 1x  / 660~670 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Incantation Samurai / Samurai Specter   (INCANTATION_SAMURAI)   Mob-ID#1492
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Kades / Dark Guardian Kades (Re-Stats)   (KADES)   Mob-ID#2255
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Kiel D-01   (KIEL_)   Mob-ID#1734
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Knight of Windstorm / Stormy Knight   (KNIGHT_OF_WINDSTORM)   Mob-ID#1251
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Kraken (Re-Stats)   (KRAKEN)   Mob-ID#2202
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Ktullanux   (KTULLANUX)   Mob-ID#1779
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Lady Tanee   (LADY_TANEE)   Mob-ID#1688
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Leak (Re-Stats)   (LEAK)   Mob-ID#2156
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Lord Knight Seyren   (B_SEYREN)   Mob-ID#1646
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Lord of Death / Lord of the Dead   (LORD_OF_DEATH)   Mob-ID#1373
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Amatsu Underground Shrine</div>, <div class="tipstext">  + 1x  / 91~101 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Hall of the Abyss : Hill of death</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Robot Factory Level 2</div>, <div class="tipstext">  + 1x  / 120~180 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Toy Monitoring Room</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Undersea Tunnel F6</div>, <div class="tipstext">  + 1x  / 120~150 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Ice Cave F3</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Inside Ancient Shrine</div>, <div class="tipstext">  + 1x  / 420~430 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Dewata Dungeon 01, Volcanic Island of Krakatoa</div>, <div class="tipstext">  + 1x  / 120 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F3</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Nifflheim, Realm of the Dead</div>, <div class="tipstext">  + 1x  / 133 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Lost Dragon (Re-Stats)   (LOST_DRAGON)   Mob-ID#2131
+
+Mode
+Drops
+Monster Skills
+
+Maya   (MAYA)   Mob-ID#1147
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Mistress   (MISTRESS)   Mob-ID#1059
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Moonlight Flower   (MOONLIGHT)   Mob-ID#1150
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Nidhoggr's Shadow   (S_NYDHOG)   Mob-ID#2022
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Nightmare Amon Ra (Re-Stats)   (N_AMON_RA)   Mob-ID#2362
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Orc Hero   (ORK_HERO)   Mob-ID#1087
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Orc Lord   (ORC_LORD)   Mob-ID#1190
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Osiris   (OSIRIS)   Mob-ID#1038
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Paladin Randel (Re-Stats)   (B_RANDEL)   Mob-ID#2235
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- The Hazy Maze Forest</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Ant Hell F2</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[<div class="tipstext">- Luina Guild Dungeon F2</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[<div class="tipstext">- Valkyrie Guild Dungeon</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Mt.Mjolnir</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Payon Cave F5</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Nidhoggur's Nest Lv 2</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Morocc Pyramid Underground 2F- Challenge</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Subterranean Orc Cave F2</div>]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Geffen Field</div>, <div class="tipstext">  + 1x  / 1440~1450 min</div>]
+[<div class="tipstext">- West Orc Village</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Geffen Field</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Inside Pyramid F4</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Pharaoh   (PHARAOH)   Mob-ID#1157
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Phreeoni   (PHREEONI)   Mob-ID#1159
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Professor Celia (Re-Stats)   (B_CELIA)   Mob-ID#2237
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Pyuriel / Angry Student Pyuriel (Re-Stats)   (PYURIEL)   Mob-ID#2249
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Queen Scaraba / Scaraba Queen (Re-Stats)   (QUEEN_SCARABA)   Mob-ID#2087
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Root of Corruption (Re-Stats)   (MG_CORRUPTION_ROOT)   Mob-ID#2475
+
+Mode
+Drops
+Monster Skills
+
+RSX 0806 / RSX-0806   (RSX_0806)   Mob-ID#1623
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Sniper Shecil / Sniper Cecil   (B_SHECIL)   Mob-ID#1650
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Stalker Gertie (Re-Stats)   (B_GERTIE)   Mob-ID#2239
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Tao Gunka   (TAO_GUNKA)   Mob-ID#1583
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Sphinx F5</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Sograt Desert</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Hall of the Abyss : Warrior road</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Scaraba Hole 02, Scaraba Hall</div>, <div class="tipstext">  + 1x  / 120 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Old Glast Heim Chivalry 2F</div>]
+[]
+[]
+[]
+[<div class="tipstext">- Mine Dungeon F2</div>, <div class="tipstext">  + 1x  / 125~135 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F3</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F4</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Karu, the West cave</div>, <div class="tipstext">  + 1x  / 300~310 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Thanatos / Memory of Thanatos   (THANATOS)   Mob-ID#1708
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Turtle General   (TURTLE_GENERAL)   Mob-ID#1312
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Valkyrie Randgris   (RANDGRIS)   Mob-ID#1751
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Vesper   (APOCALIPS_H)   Mob-ID#1685
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Whitesmith Harword / Whitesmith Howard   (B_HARWORD)   Mob-ID#1648
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Wounded Morroc   (MOROCC_)   Mob-ID#1917
+
+Mode
+Drops
+Monster Skills
+Slaves
+
+Ygnizem / Egnigem Cenia   (B_YGNIZEM)   Mob-ID#1658
+
+Mode
+Drops
+Monster Skills
+Slaves
+[<div class="tipstext">- The top of The Thanatos Tower</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Turtle Palace</div>, <div class="tipstext">  + 1x  / 60~70 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Odin Temple F3</div>, <div class="tipstext">  + 1x  / 480~490 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Juperos Core</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Wolfchev's Lab</div>]
+[<div class="tipstext">- Bio Laboratory F3</div>, <div class="tipstext">  + 1x  / 100~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- Morocc Field (Dimensional Gorge)</div>, <div class="tipstext">  + 1x  / 720~780 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<div class="tipstext">- The Endless Tower</div>]
+[<div class="tipstext">- Bio Laboratory F2</div>, <div class="tipstext">  + 1x  / 120~130 min</div>]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
