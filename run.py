@@ -13,14 +13,14 @@ def get_open_html(URL):
 #get each job link from main job search page
 def get_joblinks(URL):
     soup = get_open_html(URL)
-    links = soup.find_all('a', class_='jobtitle turnstileLink')
+    links = soup.find_all('a', class_='jobtitle')
     return links
 
 #get relevant info for each link from get_joblinks() and print it
 def get_jobinfo(URL):
     links = get_joblinks(URL)
     for job in links:
-        print(job.div['jobsearch-DesktopStickyContainer is-sticky'])
+        print(job.div['jobsearch-DesktopStickyContainer'])
         print(job.find(id="jobDescriptionText"))
 
 get_jobinfo('https://www.indeed.com/jobs?q=Entry+Level+Python&l=New+Jersey')
