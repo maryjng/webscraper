@@ -3,6 +3,13 @@ from requests import get
 from requests.exceptions import RequestException
 from bs4 import BeautifulSoup
 
+#print to txt
+def print_to_text(txt, txtfile):
+    t = open(txtfile, "a")
+    print(txt, file=t)
+    t.close()  
+    
+#get soup
 def get_open_html(URL):
     r = requests.get(URL)
     # print(r.status_code)
@@ -10,22 +17,21 @@ def get_open_html(URL):
     # print(soup.get_text())
     return soup
 
-#get each job link from main job search page
-def get_joblinks(URL):
+#prettify soup
+def prettify(soup):
+    return soup.prettify()  
+
+#get each link from soup using class and <a>
+def get_links(URL):
     soup = get_open_html(URL)
-    links = soup.find_all('a', class_='jobtitle')
+    links = soup.find_all('a', class_='<INSERT CLASSS>')
     return links
 
-#get relevant info for each link from get_joblinks() and print it
-def get_jobinfo(URL):
-    links = get_joblinks(URL)
-    for job in links:
-        print(job.div['jobsearch-DesktopStickyContainer'])
-        print(job.find(id="jobDescriptionText"))
+#print text within tags filtered by class and CSS selector
+def findall_filter(URL):
+    soup = get_open_html(URL)
+    for result in soup.find_all('<TAG>', {'class':'<INSERT CLASS>'}):
+        item = result.find('<TAG1>' > '<TAG2>').get_text()
+        printtotext(item)
 
-get_jobinfo('https://www.indeed.com/jobs?q=Entry+Level+Python&l=New+Jersey')
-
-# div class"jobsearch-SerpJobCard unifiedRow row result clickcard vjs-highlight" #container for each job
-# a class="jobtitle turnstileLink visited" #jobtitle
-# span class="salaryText" #salary
-# span class ="location accessible-contrast-color-location" #location
+get_jobinfo('<URL>')
